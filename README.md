@@ -2,7 +2,7 @@
 
 DownKyi **1.6.1 扫码登录修复版**的分发仓库 —— 非官方构建，仓库内不含源码。
 
-下载见 [Releases](https://github.com/hehe1885/downkyi/releases)（附件名 `DownKyi-1.6.2.zip`）。
+下载见 [Releases](https://github.com/hehe1885/downkyi_QRlogin_fix/releases)（附件名 `DownKyi-1.6.2.zip`）。
 
 ## 这是什么
 
